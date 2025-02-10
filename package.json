@@ -11,7 +11,8 @@
   "scripts": {
     "build": "pnpm turbo run build",
     "lint": "pnpm turbo run lint",
-    "format": "pnpm turbo run format"
+    "format": "pnpm turbo run format",
+    "dev": "pnpm turbo run dev"
   },
   "devDependencies": {
     "turbo": "latest"

@@ -38,4 +38,6 @@ apps/docs/public/registry/
 # turbo
 .turbo
 
-
+# package-lock.json
+package-lock.json
+yarn.lock
