@@ -11,6 +11,7 @@ const MarkdownText = makeMarkdownText({});
 export default function Home() {
   return (
     <div className="flex h-full flex-col">
+      <div className="test-class">Hello, Tailwind</div>
       <Thread
         welcome={{
           suggestions: [
